@@ -16,6 +16,9 @@ We are going to be creating the Entity Relationship Diagram for your StarWars Bl
 
 > 🔥 You can use this FREE tool to practice your diagram for the first time: https://app.quickdatabasediagrams.com/#/d/
 
+Here is the diagram I made using quickdatabasediagrams.com:
+![my Star Wars Diagram](https://user-images.githubusercontent.com/112668448/263424126-c7b876d2-f315-4635-b134-d3e9d1581421.png?raw=true)
+
 ## 💻 Installation
 
 1. Get inside the environment `$ pipenv shell`
